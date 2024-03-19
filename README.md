@@ -1,7 +1,7 @@
 
 ---
 
-# Pishing Website Detection Project
+# Phishing Website Detection Project
 
 ## Overview
 
