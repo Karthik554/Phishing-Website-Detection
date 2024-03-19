@@ -1,7 +1,7 @@
 
 ---
 
-# Fishing Website Detection Project
+# Pishing Website Detection Project
 
 ## Overview
 
